@@ -18,7 +18,6 @@ libraryDependencies ++= Seq(
   "io.kamon"    %% "kamon-log-reporter"   % kamonVersion,
   "io.kamon"    %% "kamon-play-2.5"       % kamonVersion,
 
-  "io.kamon"    %% "kamon-akka-http"      % kamonVersion,
   "io.kamon"    %% "kamon-akka-2.4"       % kamonVersion,
 
   "org.aspectj" % "aspectjweaver" % "1.8.10",
